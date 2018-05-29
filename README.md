@@ -9,3 +9,5 @@
 [微信催讨](https://gitee.com/zhaoyongle/jmeter/tree/master/微信催讨)
 
 ## 测试总结
+
+1. 加盟商测试环境变更
